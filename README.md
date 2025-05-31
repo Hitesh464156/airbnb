@@ -28,13 +28,15 @@ Welcome to my Airbnb Clone, a full-stack web application built with the powerful
 • Built with Tailwind CSS for a clean, mobile-first design
 • Fully responsive across all device sizes
 
-##🛠️ Tech Stack
-#Technology	Description
-MongoDB	NoSQL Database for storing listings, users, and bookings
-Express.js	Backend framework for handling routes and APIs
-React.js	Frontend library for dynamic UI and components
-Node.js	Runtime for server-side logic and APIs
-Mongoose	ODM for interacting with MongoDB
-JWT	Secure authentication mechanism
-TailwindCSS	Utility-first CSS for modern UI
-Cloudinary	Image hosting for property photos
+🛠️ Tech Stack
+Technology	    Description
+MongoDB	        NoSQL Database for storing listings, users, and bookings
+Express.js     	Backend framework for handling routes and APIs
+Node.js	        Runtime for server-side logic and APIs
+HTML            The foundational markup language used to structure content on the web
+CSS             A styling language used to design and visually enhance the layout 
+JavaScript      A scripting language that adds interactivity, dynamic behavior, and logic                   to the frontend.
+JWT             Secure authentication mechanism
+TailwindCSS	    Utility-first CSS for modern UI
+Cloudinary	    Image hosting for property photos
+
